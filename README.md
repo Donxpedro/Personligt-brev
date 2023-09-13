@@ -8,7 +8,7 @@ Mitt namn är Glody, en positiv kille på 25 år. Jag har studerat IT Thorildspl
 ## seconde header
 
   ````
-  **Inom Javautveklare kommer jag att bli examinerats i följande kurser:**
+  ** Inom Javautveklare kommer jag att bli examinerats i följande kurser: **
 Androidutveckling
 Databashantering
 Programmering iOS- Objective-C & Swift
@@ -17,7 +17,7 @@ Webbapplikationsutveckling
 Agil utveckling
 Objektorienterad analys och design
   
-  ```
+  ````
 
 ### Vem är GLODY:
 
