@@ -5,10 +5,10 @@
 Mitt namn är Glody, en positiv kille på 25 år. Jag har studerat IT Thorildsplans gymnasium. I min utbildning lärde jag mig inte bara allt inom teknisk produktion utan även om personlig försäljning och hur man kommunicerar med folk. Nu studerar jag Javautvecklare på IT högskola.
 
   ```
-## seconde header
+## Utbildning
 
   ````
-  ** Inom Javautveklare kommer jag att bli examinerats i följande kurser: **
+  *Inom Javautveklare kommer jag att bli examinerats i följande kurser:*
 Androidutveckling
 Databashantering
 Programmering iOS- Objective-C & Swift
@@ -58,7 +58,7 @@ Socialt arbete
  .Engelska, flytande
 
 ```
-
+![en bild av mig ](\Users\glody\Pictures\images.jpg)
 
 
    2023
