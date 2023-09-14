@@ -58,7 +58,7 @@ Socialt arbete
  .Engelska, flytande
 
 ```
-![en bild av mig ](\Users\glody\Pictures\images.jpg)
+![en bild av mig på fritid ](images.jpg)
 
 
    2023
